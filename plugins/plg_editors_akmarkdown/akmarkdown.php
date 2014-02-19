@@ -164,7 +164,7 @@ RT;
 			$doc    = JFactory::getDocument();
 			$params = $this->params;
 			$root   = JURI::root();
-			$convert = (int)($params->get('EditorButton_ConvertMd', 1) && $params->get('MarkItUp_ButtonSet') == 'markdown');
+			$convert = (int)($params->get('EditorButton_ConvertMarkdown', 1) && $params->get('MarkItUp_ButtonSet') == 'markdown');
 
 			if($convert)
 			{

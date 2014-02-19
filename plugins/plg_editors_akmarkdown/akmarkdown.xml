@@ -48,7 +48,7 @@
 			<fieldset name="basic"
 				addfieldpath="plugins/editors/akmarkdown/fields">
 				<field
-					name="EditorButton_ConvertMd"
+					name="EditorButton_ConvertMarkdown"
 					type="radio"
 					label="PLG_EDITORS_AKMARKDOWN_CONVERT_MD"
 					description="PLG_EDITORS_AKMARKDOWN_CONVERT_MD_DESC"
