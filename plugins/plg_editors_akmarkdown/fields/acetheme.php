@@ -11,9 +11,6 @@ defined('JPATH_PLATFORM') or die;
 
 JFormHelper::loadFieldClass('list');
 
-// INCLUDE WINDWALKER FRAMEWORK
-include_once dirname(__FILE__) . '/../lib/init.php';
-
 /**
  * Form Field class for the Joomla Platform.
  * Supports an HTML select list of categories
