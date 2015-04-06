@@ -10,7 +10,7 @@
 		</downloads>
 		<targetplatform name="joomla" version="3.4" />
 		<element>akmarkdown</element>
-		<folder>system</folder>
+		<folder>editor</folder>
 		<type>plugin</type>
 	</update>
 	
@@ -24,7 +24,7 @@
 		</downloads>
 		<targetplatform name="joomla" version="3.3" />
 		<element>akmarkdown</element>
-		<folder>system</folder>
+		<folder>editor</folder>
 		<type>plugin</type>
 	</update>
 </updates>
